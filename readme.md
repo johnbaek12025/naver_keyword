@@ -1,5 +1,7 @@
-# Report Making Manager
-프로그램 설명 필요!!!
+# naver_keyword_search
+1. 프로그램 기능
+
+     - 원천 db에서 키워드를 추출하여 naver_api의 검색을 이용한 뉴스, 블로그, 카페의 데이터를 추출하여 가공하여 분석db에 적재하는 프로그램 입니다.
 
 ## 실행방식
 
@@ -10,7 +12,7 @@ https://git-scm.com/
 
 2. skm 프로그램 설치
 ```
-git clone https://github.com/johnbaek12025/naver_keyword_search
+git clone https://github.com/johnbaek12025/naver_keyword
 ```
 
 3. Python 3.7 설치
@@ -44,5 +46,5 @@ Ex) skm/cfg/cm-options.cfg
 ```
 # 옵션 파일이 cm/cfg 아래에 위치하고, 리포트 이름이 naver_api 일 경우
 cd bin
-E:\NAVER\virtual\Scripts\pythonw km.py --content=NAVER_API --config=../cfg/constants.cfg
+E:\NAVER\virtual\Scripts\pythonw nk.py --content=NAVER_API --config=../cfg/constants.cfg
 ```
