@@ -1,0 +1,1 @@
+E:\NAVER\virtual\Scripts\pythonw nk.py --content=NAVER_API --config=../cfg/constants.cfg
