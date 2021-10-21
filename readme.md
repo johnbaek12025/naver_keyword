@@ -1,4 +1,4 @@
-# naver_keyword_search
+# naver_keyword
 1. 프로그램 기능
 
      - 원천 db에서 키워드를 추출하여 naver_api의 검색을 이용한 뉴스, 블로그, 카페의 데이터를 추출하여 가공하여 분석db에 적재하는 프로그램 입니다.
